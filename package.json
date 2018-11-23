@@ -1,0 +1,25 @@
+{
+  "name": "scale-type-stat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/scale-type-stat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/scale-type-stat/issues"
+  },
+  "homepage": "https://github.com/hfu/scale-type-stat#readme",
+  "dependencies": {
+    "config": "^3.0.0",
+    "event-stream": "^4.0.1",
+    "hjson": "^3.1.2"
+  }
+}
